@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**TSK-3/TSK-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Karthik 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building things at the intersection of AI, voice, and computer vision.**
+
+- 🎓 2nd-year B.Tech CSE @ MGIT, Hyderabad — also pursuing a B.S. in Data Science & AI from IIT Guwahati
+- 🛠️ Head of **aDOPE Design Club** @ MGIT
+- 💼 Recently wrapped a Trainee Software Intern role @ **Vervelo Technologies**, building a Healthcare Voice Intake System (LiveKit Agents, Deepgram, LangChain, Groq LLaMA 3.3 70B, PostgreSQL)
+- 🏆 Honorable Mention @ Youth Speaks Hackathon (IIIT-H) for **CarbonX** — a satellite-verified carbon credit platform for smallholder farmers
+- 🌱 Into multi-agent AI systems, agentic pipelines, and applied ML
+
+---
+
+### 🔭 Things I've Built
+- **StockSense** — LSTM + VADER sentiment-based stock prediction, React/Node.js
+- **ClearSign** — ISL sign language recognition using MediaPipe, ONNX, Hugging Face
+- **BME (Be My Eyes)** — Computer vision assistive tool using YOLO + MobileNet
+- **Wearable Health Monitor** — ESP32 + LSTM classifier, FastAPI, pYTORCH
