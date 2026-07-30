@@ -14,14 +14,14 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 2nd-year **B.Tech CSE** student at **MGIT, Hyderabad**, concurrently pursuing a **B.S. in Data Science & AI** from **IIT Guwahati** (online)
-- 🎨 ** Social Media Head of the aDOPE Design Club** at MGIT
-- 💼 Recently wrapped a **Trainee Software Intern** role at **Vervelo Technologies LLP** — built a Healthcare Voice Intake System (LiveKit Agents, Deepgram, LangChain, Groq LLaMA 3.3 70B, PostgreSQL)
-- 🧠 Deep interest in **multi-agent AI systems**, **agentic pipelines**, and **applied ML**
-- 🏍️ When not coding, I'm probably on a night ride on my Triumph Scrambler 400X
-- 📈 Casually into investing, graphic design (Affinity Photo), and fitness
+- > 2nd-year **B.Tech CSE** student at **MGIT, Hyderabad**, concurrently pursuing a **B.S. in Data Science & AI** from **IIT Guwahati** (online)
+-  > ** Social Media Head of the aDOPE Design Club** at MGIT
+-   > Recently wrapped a **Trainee Software Intern** role at **Vervelo Technologies LLP** — built a Healthcare Voice Intake System (LiveKit Agents, Deepgram, LangChain, Groq LLaMA 3.3 70B, PostgreSQL)
+-  > Deep interest in **multi-agent AI systems**, **agentic pipelines**, and **applied ML**
+-  > When not coding, I'm probably on a night ride on my Triumph Scrambler 400X
+- > Casually into investing, graphic design (Affinity Photo), and fitness
 
 ---
 
