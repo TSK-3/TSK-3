@@ -61,7 +61,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Youth%20Speaks%20Hackathon-Honorable%20Mention-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Epitome%20Hackathon%202023-3rd%20Place-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Google%20IT%20Automation-Certified-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Meta%20Front%20End%20Development-Certified-0668E1?style=flat-square&logo=meta&logoColor=white"/>
 </p>
