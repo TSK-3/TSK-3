@@ -2,7 +2,7 @@
 <h3 align="center"> Building things at the intersection of AI, Design & Code</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+MGIT+Hyderabad;B.S.+Data+Science+%26+AI+%40+IIT+Guwahati;Head%2C+aDOPE+Design+Club;Ex-Trainee+SWE+Intern+%40+Vervelo+Technologies;Building+Multi-Agent+%26+Voice+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+MGIT+Hyderabad;B.S.+Data+Science+%26+AI+%40+IIT+Guwahati;Social+media+Head%2C+aDOPE+Design+Club;Ex-Trainee+SWE+Intern+%40+Vervelo+Technologies;Building+Multi-Agent+%26+Voice+AI+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
