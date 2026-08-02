@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Karthik 👋</h1>
+<h1 align="center">I'm Karthik</h1>
 <h3 align="center"> Building things at the intersection of AI, Design & Code</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ###  About Me
 
 - > 2nd-year **B.Tech CSE** student at **MGIT, Hyderabad**, concurrently pursuing a **B.S. in Data Science & AI** from **IIT Guwahati** (online)
--  > ** Social Media Head of the aDOPE Design Club** at MGIT
+- > ** Social Media Head of the aDOPE Design Club** at MGIT
 -   > Recently wrapped a **Trainee Software Intern** role at **Vervelo Technologies LLP** — built a Healthcare Voice Intake System (LiveKit Agents, Deepgram, LangChain, Groq LLaMA 3.3 70B, PostgreSQL)
 -  > Deep interest in **multi-agent AI systems**, **agentic pipelines**, and **applied ML**
 -  > When not coding, I'm probably on a night ride on my Triumph Scrambler 400X
